@@ -1,2 +1,2 @@
-# lab4
-lab4
+#!/bin/bash
+echo "Hello World"
